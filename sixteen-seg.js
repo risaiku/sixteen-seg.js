@@ -283,7 +283,6 @@ Seg16.prototype = {
 		} else {
 			ret = [];
 			for (i = 0; i < buf.length; i++) {
-				
 				ret[idx] = buf[i];
 				if (((buf[i] & 0x10000) != 0x10000) && buf[i+1] == 0x10000) {
 					ret[idx] |= 0x10000;
