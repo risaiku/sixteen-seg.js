@@ -6,7 +6,7 @@
 // This software is released under the MIT License.
 //
 // http://risaiku.net
-// https://github.com/risaiku/sixteenseg.js
+// https://github.com/risaiku/sixteen-seg.js
 //
 
 function sixteenSeg() {
