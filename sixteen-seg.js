@@ -1,6 +1,6 @@
 //
 // sixteen-seg.js
-// v0.0 (beta)
+// v1.0
 //
 // Copyright (c) 2014 risaiku
 // This software is released under the MIT License.
