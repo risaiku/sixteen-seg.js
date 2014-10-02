@@ -26,7 +26,7 @@ seg16.draw({value : "A."});
 ```
 
 ## その他のオプション
-詳しくは次のURLを参照  
+次のURLを参照  
 http://risaiku.net/archives/1412/
 
 ## ライセンス等
